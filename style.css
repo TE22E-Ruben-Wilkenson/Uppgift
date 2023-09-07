@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+body{
+    background-image: url(img/showcase.jpg);
+}
+
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: "Robot Mono", Arial;
+    text-align: center;
+}
+
+.Artikel_Container{
+    display: block;
+    padding: 2%;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.bottom{
+    text-align: center;
+    margin: 2%;
+}
